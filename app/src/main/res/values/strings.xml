@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Budget Buddy</string>
+
+    <string-array name="currencySymbols">
+        <item>INR-(₹)</item>
+        <item>USD-($)</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="copyright">Copyright © 2024 Sharan and Anvitha</string>
+    <string name="developer">Designed &amp; Developed By Sharan and Anvitha</string>
+</resources>
